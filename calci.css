@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(30, 210, 186);
+    text-align: center;
+    border: green;
+}
+h1{
+    color:blueviolet;
+    font-size: time new roman;
+}
+table{
+    background-color: rgb(8, 146, 70);
+    border-radius: 8px;
+    block-size: 40px;
+}
